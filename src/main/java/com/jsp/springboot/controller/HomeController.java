@@ -14,7 +14,6 @@ import com.jsp.springboot.service.UserService;
 import jakarta.servlet.http.HttpSession;
 import com.jsp.springboot.entity.Entry;
 import com.jsp.springboot.entity.User;
-//hrello world
 
 @Controller
 public class HomeController {
